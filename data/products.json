@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Samsung Galaxy S23 Ultra",
+    "category": "Smartphones",
+    "technology": "Android",
+    "id": 101234,
+    "description": "Featuring a 6.8-inch Dynamic AMOLED display, Snapdragon 8 Gen 2, and a 108MP quad camera setup. Perfect for photography enthusiasts and power users.",
+    "price": "$1,199",
+    "discount": "No"
+  },
+  {
+    "name": "MacBook Pro M3",
+    "category": "Laptops",
+    "technology": "macOS",
+    "id": 105678,
+    "description": "Powered by Apple's latest M3 chip, this MacBook Pro offers exceptional performance and battery life, ideal for professionals and creatives alike.",
+    "price": "$2,499",
+    "discount": "5%"
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "technology": "Noise Cancelling",
+    "id": 102345,
+    "description": "Experience industry-leading noise cancellation with high-resolution audio performance. Ideal for travel, work, or everyday use.",
+    "price": "$399",
+    "discount": "10%"
+  },
+  {
+    "name": "Apple iPad Pro",
+    "category": "Tablets",
+    "technology": "iOS",
+    "id": 106789,
+    "description": "Features a stunning 12.9-inch Liquid Retina XDR display, M2 chip, and professional-level photography capabilities.",
+    "price": "$1,099",
+    "discount": "No"
+  },
+  {
+    "name": "Google Pixel Watch",
+    "category": "Wearables",
+    "technology": "Wear OS",
+    "id": 107890,
+    "description": "Google's first smartwatch offering seamless integration with Pixel phones, health tracking, and a stylish design.",
+    "price": "$349",
+    "discount": "15%"
+  },
+  {
+    "name": "Dell XPS 15",
+    "category": "Laptops",
+    "technology": "Windows",
+    "id": 108901,
+    "description": "Combines a 15.6-inch 4K UHD touch display with a powerful 12th Gen Intel Core processor, making it ideal for both gaming and productivity.",
+    "price": "$2,199",
+    "discount": "No"
+  },
+  {
+    "name": "Bose QuietComfort Earbuds II",
+    "category": "Earbuds",
+    "technology": "Noise Cancelling",
+    "id": 109012,
+    "description": "Offers unrivaled noise cancellation, personalized audio performance, and comfort. Perfect for music lovers on the go.",
+    "price": "$299",
+    "discount": "20%"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Arjun Patel",
+    "avatar": "neil-sims.png",
+    "email": "arjun.patel@gmail.com",
+    "biography": "Specializes in front-end technologies including ReactJS and Bootstrap. Passionate about building scalable web applications and enjoys cricket and blogging.",
+    "position": "Front-end Developer",
+    "country": "India",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Divya Sharma",
+    "avatar": "roberta-casas.png",
+    "email": "divya.design@yahoo.com",
+    "biography": "A creative web designer with a strong interest in user experience and interactive design. Loves photography and exploring new design trends.",
+    "position": "Designer",
+    "country": "India",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Desai",
+    "avatar": "michael-gough.png",
+    "email": "rohan.desai123@gmail.com",
+    "biography": "React developer with extensive experience in building high-performance applications. Enjoys gaming and contributing to open-source projects.",
+    "position": "React Developer",
+    "country": "India",
+    "status": "Inactive"
+  },
+  {
+    "id": 4,
+    "name": "Neha Bhatt",
+    "avatar": "jese-leos.png",
+    "email": "neha_bhatt@yahoo.com",
+    "biography": "Focused on digital marketing strategies and SEO optimization. Keen on keeping up with the latest marketing trends and technologies.",
+    "position": "Marketing Specialist",
+    "country": "India",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "Siddharth Kumar",
+    "avatar": "thomas-lean.png",
+    "email": "sid.kumar@gmail.com",
+    "biography": "Expert in Vue.js and modern JavaScript frameworks. Enjoys teaching programming to students and writing tech blogs.",
+    "position": "Vue Developer",
+    "country": "India",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "name": "Aishwarya Rai",
+    "avatar": "helene-engels.png",
+    "email": "aishwarya.rai.designer@yahoo.com",
+    "biography": "Product owner who excels at bridging user needs with business goals. Loves mentoring young designers and binge-watching tech documentaries.",
+    "position": "Product Owner",
+    "country": "India",
+    "status": "Active"
+  },
+  {
+    "id": 7,
+    "name": "Vivek Reddy",
+    "avatar": "robert-brown.png",
+    "email": "vivek.reddy.dev@gmail.com",
+    "biography": "Skilled Laravel developer with a knack for creating efficient back-end systems. Avid reader and tech enthusiast who enjoys hackathons.",
+    "position": "Laravel Developer",
+    "country": "India",
+    "status": "Active"
+  }
+]
