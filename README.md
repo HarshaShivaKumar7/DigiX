@@ -1,4 +1,4 @@
-# [Flowbite Admin Dashboard]
+# [DigiXAsset Admin Dashboard]
 
 ## Quick start
 
